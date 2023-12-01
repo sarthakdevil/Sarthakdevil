@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react and popular js libraries**
 
-- 💬 Ask me about **html,css,js and popular css libraries**
+- 💬 Ask me about **html,css,js and popular css and js libraries**
 
 - 📫 How to reach me **instagram.com/hackers_en_route**
 
