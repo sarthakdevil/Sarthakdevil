@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,node,express**
 
-- 📫 How to reach me **duodynamic892@gmail.com , instagram.com/hackers_en_route**
+- 📫 How to reach me **sarthaksahu813@gmail.com , instagram.com/hackers_en_route**
 
 - ⚡ Fun fact **I like video games**
 
